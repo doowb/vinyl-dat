@@ -1,7 +1,7 @@
 {
   "name": "vinyl-dat",
   "description": "Vinyl adapter for dat",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/doowb/vinyl-dat",
   "author": {
     "name": "Brian Woodward",
