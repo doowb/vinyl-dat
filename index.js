@@ -7,6 +7,8 @@
 
 'use strict';
 
-module.exports = function () {
-  // do stuff
+module.exports = {
+  src: require('./lib/src'),
+  dest: require('./lib/dest'),
+  watch: require('./lib/watcher')
 };
